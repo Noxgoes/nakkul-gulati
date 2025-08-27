@@ -1,0 +1,5 @@
+{
+  "name": "Nearby Places Finder",
+  "description": "An application that allows users to enter a location and discover nearby points of interest like restaurants, cafes, and parks, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
